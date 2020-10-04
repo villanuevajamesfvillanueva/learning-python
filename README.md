@@ -1,2 +1,2 @@
 # learning-python
-early python projects/exercises
+my newbie python exercises
